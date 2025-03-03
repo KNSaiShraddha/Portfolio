@@ -13,7 +13,7 @@ This website highlights my **skills, projects, education, and contact informatio
 
 ## 🚀 Deployment  
 This website is hosted using **GitHub Pages**. You can view it at:  
-🔗 [(https://github.com/KNSaiShraddha/Portfolio/)]
+🔗 [(https://knsaishraddha.github.io/Portfolio/)]
 
 ## 🛠️ Technologies Used
 - **HTML5**  
